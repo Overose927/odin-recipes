@@ -1,0 +1,1 @@
+This project creates a website that consolidates recipes I commonly use.
